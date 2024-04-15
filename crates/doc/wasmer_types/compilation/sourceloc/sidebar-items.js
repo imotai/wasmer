@@ -1,1 +1,0 @@
-window.SIDEBAR_ITEMS = {"struct":[["SourceLoc","A source location."],["SourceLocResolver","The resolver for an archived [`SourceLoc`]"]]};

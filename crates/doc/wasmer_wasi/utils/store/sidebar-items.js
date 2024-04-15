@@ -1,1 +1,0 @@
-window.SIDEBAR_ITEMS = {"fn":[["capture_snapshot",""],["restore_snapshot",""]],"struct":[["InstanceSnapshot","A snapshot that captures the runtime state of an instance."]]};

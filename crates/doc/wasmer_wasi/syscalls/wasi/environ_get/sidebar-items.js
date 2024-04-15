@@ -1,1 +1,0 @@
-window.SIDEBAR_ITEMS = {"fn":[["environ_get","`environ_get()`"]]};

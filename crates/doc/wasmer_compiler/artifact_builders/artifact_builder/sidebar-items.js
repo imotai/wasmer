@@ -1,1 +1,1 @@
-window.SIDEBAR_ITEMS = {"struct":[["ArtifactBuild","A compiled wasm module, ready to be instantiated."]]};
+window.SIDEBAR_ITEMS = {"fn":["serialize_module"],"struct":["ArtifactBuild","ArtifactBuildFromArchive","ArtifactBuildFromArchiveCell","ModuleFromArchive"]};

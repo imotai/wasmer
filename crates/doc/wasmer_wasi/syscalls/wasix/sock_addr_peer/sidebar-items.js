@@ -1,1 +1,0 @@
-window.SIDEBAR_ITEMS = {"fn":[["sock_addr_peer","`sock_addr_peer()`"]]};

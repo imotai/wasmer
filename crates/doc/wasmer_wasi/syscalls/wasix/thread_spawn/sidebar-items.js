@@ -1,1 +1,0 @@
-window.SIDEBAR_ITEMS = {"fn":[["thread_spawn","`thread_spawn()`"]]};

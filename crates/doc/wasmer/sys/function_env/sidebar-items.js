@@ -1,1 +1,0 @@
-window.SIDEBAR_ITEMS = {"struct":[["FunctionEnv","An opaque reference to a function environment. The function environment data is owned by the `Store`."],["FunctionEnvMut","A temporary handle to a [`FunctionEnv`]."]]};

@@ -1,1 +1,0 @@
-window.SIDEBAR_ITEMS = {"fn":[["args_sizes_get","`args_sizes_get()`"]]};

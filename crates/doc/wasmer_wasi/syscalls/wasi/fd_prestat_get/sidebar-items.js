@@ -1,1 +1,0 @@
-window.SIDEBAR_ITEMS = {"fn":[["fd_prestat_get","`fd_prestat_get()`"]]};

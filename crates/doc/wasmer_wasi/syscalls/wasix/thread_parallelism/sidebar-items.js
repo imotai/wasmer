@@ -1,1 +1,0 @@
-window.SIDEBAR_ITEMS = {"fn":[["thread_parallelism","`thread_parallelism()`"]]};

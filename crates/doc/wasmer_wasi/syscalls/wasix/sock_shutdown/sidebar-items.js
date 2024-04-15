@@ -1,1 +1,0 @@
-window.SIDEBAR_ITEMS = {"fn":[["sock_shutdown","`sock_shutdown()`"]]};

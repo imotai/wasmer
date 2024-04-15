@@ -1,1 +1,0 @@
-window.SIDEBAR_ITEMS = {"fn":[["poll_oneoff","`poll_oneoff()`"],["poll_oneoff_internal","`poll_oneoff()`"]],"struct":[["PollBatch",""]]};

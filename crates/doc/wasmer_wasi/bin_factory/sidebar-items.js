@@ -1,1 +1,0 @@
-window.SIDEBAR_ITEMS = {"fn":[["hash_of_binary",""],["spawn_exec",""],["spawn_exec_module",""]],"mod":[["binary_package",""],["exec",""],["module_cache",""]],"struct":[["BinFactory",""],["BinaryPackage",""],["BinaryPackageCommand",""],["ModuleCache",""]]};

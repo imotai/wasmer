@@ -1,1 +1,0 @@
-window.SIDEBAR_ITEMS = {"enum":[["ControlPlaneError",""]],"struct":[["ControlPlaneConfig",""],["MutableState",""],["State",""],["TaskCountGuard","Guard that ensures the [`WasiControlPlane`] task counter is decremented when dropped."],["WasiControlPlane",""]]};

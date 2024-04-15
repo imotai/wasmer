@@ -1,1 +1,0 @@
-window.SIDEBAR_ITEMS = {"fn":[["thread_sleep","`thread_sleep()`"],["thread_sleep_internal",""]]};

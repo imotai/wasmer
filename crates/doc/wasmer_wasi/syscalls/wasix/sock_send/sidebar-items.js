@@ -1,1 +1,0 @@
-window.SIDEBAR_ITEMS = {"fn":[["sock_send","`sock_send()`"]]};

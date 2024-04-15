@@ -1,1 +1,0 @@
-window.SIDEBAR_ITEMS = {"fn":[["read_owned","Locks this rwlock with shared read access, blocking the current thread until it can be acquired."],["write_owned","Locks this rwlock with exclusive write access, blocking the current thread until it can be acquired."]],"struct":[["OwnedRwLockReadGuard",""],["OwnedRwLockWriteGuard",""]]};

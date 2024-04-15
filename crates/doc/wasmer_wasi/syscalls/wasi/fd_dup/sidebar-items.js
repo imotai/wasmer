@@ -1,1 +1,0 @@
-window.SIDEBAR_ITEMS = {"fn":[["fd_dup","`fd_dup()`"]]};

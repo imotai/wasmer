@@ -1,1 +1,0 @@
-window.SIDEBAR_ITEMS = {"struct":[["DualWriteFile","Wraps a [`VirtualFile`], and also invokes a provided function for each write."]]};

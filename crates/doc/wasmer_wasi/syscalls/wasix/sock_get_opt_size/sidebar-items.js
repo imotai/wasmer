@@ -1,1 +1,0 @@
-window.SIDEBAR_ITEMS = {"fn":[["sock_get_opt_size","`sock_get_opt_size()`"]]};

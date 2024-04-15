@@ -1,1 +1,0 @@
-window.SIDEBAR_ITEMS = {"enum":[["SpawnType",""]],"mod":[["tokio",""]],"struct":[["SpawnedMemory",""]],"trait":[["VirtualTaskManager","An implementation of task management"],["VirtualTaskManagerExt","Generic utility methods for VirtualTaskManager"]]};

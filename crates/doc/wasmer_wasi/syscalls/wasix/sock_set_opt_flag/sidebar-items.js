@@ -1,1 +1,0 @@
-window.SIDEBAR_ITEMS = {"fn":[["sock_set_opt_flag","`sock_set_opt_flag()`"]]};
